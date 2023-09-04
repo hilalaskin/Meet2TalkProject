@@ -1,0 +1,14 @@
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\bin\Debug\net6.0\Meet2TalkApp.exe
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\bin\Debug\net6.0\Meet2TalkApp.deps.json
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\bin\Debug\net6.0\Meet2TalkApp.runtimeconfig.json
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\bin\Debug\net6.0\Meet2TalkApp.dll
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\bin\Debug\net6.0\Meet2TalkApp.pdb
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\Meet2TalkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\Meet2TalkApp.AssemblyInfoInputs.cache
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\Meet2TalkApp.AssemblyInfo.cs
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\Meet2TalkApp.csproj.CoreCompileInputs.cache
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\Meet2TalkApp.dll
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\refint\Meet2TalkApp.dll
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\Meet2TalkApp.pdb
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\Meet2TalkApp.genruntimeconfig.cache
+C:\Users\susih\source\repos\Meet2TalkApp\Meet2TalkApp\obj\Debug\net6.0\ref\Meet2TalkApp.dll
